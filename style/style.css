@@ -17,6 +17,7 @@
 /* Main */
 .main {
     display: flex;
+    border: 1px solid red;
 }
 
 /* Main part */
